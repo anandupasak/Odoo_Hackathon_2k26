@@ -1,0 +1,13 @@
+{
+  "name": "assetflow-erp",
+  "version": "1.0.0",
+  "description": "AssetFlow ERP Monorepo",
+  "scripts": {
+    "install-all": "npm install --prefix frontend && npm install --prefix backend",
+    "build": "npm run build --prefix frontend && npm run build --prefix backend",
+    "start": "npm start --prefix backend"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

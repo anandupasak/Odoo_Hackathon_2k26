@@ -1,0 +1,10 @@
+export const Login = () => <div className="glass-panel" style={{padding: '2rem'}}>Login Page Stub</div>;
+export const Dashboard = () => <div className="glass-panel" style={{padding: '2rem'}}>Dashboard Stub</div>;
+export const OrganizationSetup = () => <div className="glass-panel" style={{padding: '2rem'}}>Organization Setup Stub</div>;
+export const AssetDirectory = () => <div className="glass-panel" style={{padding: '2rem'}}>Asset Directory Stub</div>;
+export const Allocations = () => <div className="glass-panel" style={{padding: '2rem'}}>Allocations Stub</div>;
+export const Bookings = () => <div className="glass-panel" style={{padding: '2rem'}}>Bookings Stub</div>;
+export const Maintenance = () => <div className="glass-panel" style={{padding: '2rem'}}>Maintenance Stub</div>;
+export const Audit = () => <div className="glass-panel" style={{padding: '2rem'}}>Audit Stub</div>;
+export const Reports = () => <div className="glass-panel" style={{padding: '2rem'}}>Reports Stub</div>;
+export const Notifications = () => <div className="glass-panel" style={{padding: '2rem'}}>Notifications Stub</div>;
